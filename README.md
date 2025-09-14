@@ -2,16 +2,6 @@
 This project is part of my B.Sc. in Computer Science coursework in Machine Learning.
 The goal is to solve a binary classification problem on the classic Titanic dataset: predicting passenger survival based on features such as age, sex, class, and embarkation port.
 
-Titanic/
-
-│
-├── dataset/        # Training and test datasets (CSV/Excel)
-
-├── notebook/       # Jupyter Notebook with code and experiments
-
-└── README.md       # Project documentation
-
-
 🔍 Project Overview
 
 Dataset: Titanic survival dataset.
