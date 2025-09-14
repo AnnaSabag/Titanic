@@ -4,9 +4,12 @@ The goal is to solve a binary classification problem on the classic Titanic data
 
 Titanic/
 │
-├── dataset/        # Training and test datasets (Excel)
+├── dataset/        # Training and test datasets (CSV/Excel)
+
 ├── notebook/       # Jupyter Notebook with code and experiments
+
 └── README.md       # Project documentation
+
 
 🔍 Project Overview
 
